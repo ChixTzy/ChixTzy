@@ -1,0 +1,1 @@
+The final project requirements for CS 211 at Batangas State University focus on creating a Java Console Program that demonstrates core Object-Oriented Programming (OOP) principles: Encapsulation, Inheritance, Polymorphism, and Abstraction.
